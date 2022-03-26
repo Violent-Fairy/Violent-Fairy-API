@@ -1,0 +1,7 @@
+GET https://localhost:7033/catalog
+GET https://localhost:5005/catalog
+
+POST https://localhost:7033/catalog
+POST https://localhost:5005/catalog
+
+
