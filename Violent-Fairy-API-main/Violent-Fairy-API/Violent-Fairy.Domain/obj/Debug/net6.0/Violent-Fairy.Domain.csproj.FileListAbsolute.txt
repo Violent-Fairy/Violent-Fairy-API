@@ -1,12 +1,24 @@
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\bin\Debug\net6.0\Violent-Fairy.Domain.deps.json
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\bin\Debug\net6.0\Violent-Fairy.Domain.dll
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\bin\Debug\net6.0\Violent-Fairy.Domain.pdb
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\obj\Debug\net6.0\Violent-Fairy.Domain.csproj.AssemblyReference.cache
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\obj\Debug\net6.0\Violent-Fairy.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\obj\Debug\net6.0\Violent-Fairy.Domain.AssemblyInfoInputs.cache
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\obj\Debug\net6.0\Violent-Fairy.Domain.AssemblyInfo.cs
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\obj\Debug\net6.0\Violent-Fairy.Domain.csproj.CoreCompileInputs.cache
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\obj\Debug\net6.0\Violent-Fairy.Domain.dll
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\obj\Debug\net6.0\refint\Violent-Fairy.Domain.dll
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\obj\Debug\net6.0\Violent-Fairy.Domain.pdb
-C:\Users\16143\Downloads\Violent-Fairy-API-main\Violent-Fairy-API-main\Violent-Fairy-API\Violent-Fairy.Domain\obj\Debug\net6.0\ref\Violent-Fairy.Domain.dll
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/bin/Debug/net6.0/Violent-Fairy.Domain.deps.json
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/bin/Debug/net6.0/Violent-Fairy.Domain.dll
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/bin/Debug/net6.0/Violent-Fairy.Domain.pdb
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.csproj.AssemblyReference.cache
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.AssemblyInfoInputs.cache
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.AssemblyInfo.cs
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.csproj.CoreCompileInputs.cache
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.dll
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/refint/Violent-Fairy.Domain.dll
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.pdb
+C:/Users/16143/Downloads/Violent-Fairy-API-main/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/ref/Violent-Fairy.Domain.dll
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/bin/Debug/net6.0/Violent-Fairy.Domain.deps.json
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/bin/Debug/net6.0/Violent-Fairy.Domain.dll
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/bin/Debug/net6.0/Violent-Fairy.Domain.pdb
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.csproj.AssemblyReference.cache
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.AssemblyInfoInputs.cache
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.AssemblyInfo.cs
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.csproj.CoreCompileInputs.cache
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.dll
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/refint/Violent-Fairy.Domain.dll
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/Violent-Fairy.Domain.pdb
+/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/Debug/net6.0/ref/Violent-Fairy.Domain.dll

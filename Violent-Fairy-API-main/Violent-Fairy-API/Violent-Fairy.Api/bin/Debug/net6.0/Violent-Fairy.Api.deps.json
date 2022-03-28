@@ -9,6 +9,7 @@
       "Violent-Fairy.Api/1.0.0": {
         "dependencies": {
           "Swashbuckle.AspNetCore": "6.2.3",
+          "Violent-Fairy.Data": "1.0.0",
           "Violent-Fairy.Domain": "1.0.0"
         },
         "runtime": {
@@ -60,6 +61,14 @@
             "assemblyVersion": "6.2.3.0",
             "fileVersion": "6.2.3.0"
           }
+        }
+      },
+      "Violent-Fairy.Data/1.0.0": {
+        "dependencies": {
+          "Violent-Fairy.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Violent-Fairy.Data.dll": {}
         }
       },
       "Violent-Fairy.Domain/1.0.0": {
@@ -116,6 +125,11 @@
       "sha512": "sha512-bCRI87uKJVb4G+KURWm8LQrL64St04dEFZcF6gIM67Zc0Sr/N47EO83ybLMYOvfNdO1DCv8xwPcrz9J/VEhQ5g==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.2.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    },
+    "Violent-Fairy.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Violent-Fairy.Domain/1.0.0": {
       "type": "project",
