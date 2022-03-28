@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\16143\\Downloads\\Violent-Fairy-API-main\\Violent-Fairy-API-main\\Violent-Fairy-API\\Violent-Fairy.Domain\\Violent-Fairy.Domain.csproj": {}
+    "/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/Violent-Fairy.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\16143\\Downloads\\Violent-Fairy-API-main\\Violent-Fairy-API-main\\Violent-Fairy-API\\Violent-Fairy.Domain\\Violent-Fairy.Domain.csproj": {
+    "/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/Violent-Fairy.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\16143\\Downloads\\Violent-Fairy-API-main\\Violent-Fairy-API-main\\Violent-Fairy-API\\Violent-Fairy.Domain\\Violent-Fairy.Domain.csproj",
+        "projectUniqueName": "/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/Violent-Fairy.Domain.csproj",
         "projectName": "Violent-Fairy.Domain",
-        "projectPath": "C:\\Users\\16143\\Downloads\\Violent-Fairy-API-main\\Violent-Fairy-API-main\\Violent-Fairy-API\\Violent-Fairy.Domain\\Violent-Fairy.Domain.csproj",
-        "packagesPath": "C:\\Users\\16143\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\16143\\Downloads\\Violent-Fairy-API-main\\Violent-Fairy-API-main\\Violent-Fairy-API\\Violent-Fairy.Domain\\obj\\",
+        "projectPath": "/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/Violent-Fairy.Domain.csproj",
+        "packagesPath": "/Users/catesladoje/.nuget/packages/",
+        "outputPath": "/Users/catesladoje/Documents/ACCTMIS 3610/Labs/Violent-Fairy-API-1/Violent-Fairy-API-main/Violent-Fairy-API/Violent-Fairy.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\16143\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/catesladoje/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
         }
       }
     }
