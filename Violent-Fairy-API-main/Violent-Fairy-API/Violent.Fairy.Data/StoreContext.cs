@@ -1,4 +1,5 @@
 ﻿using Violent.Fairy.Domain.Catalog;
+using Violent.Fairy.Domain.Orders;
 using Microsoft.EntityFrameworkCore;
 
 namespace Violent.Fairy.Data
@@ -9,6 +10,7 @@ namespace Violent.Fairy.Data
         { }
 
         public DbSet<Item> Items { get; set; }
+
         public DbSet<Order> Orders { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
