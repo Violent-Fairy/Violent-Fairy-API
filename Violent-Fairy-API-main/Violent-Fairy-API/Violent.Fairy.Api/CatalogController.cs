@@ -33,5 +33,20 @@ namespace Violent.Fairy.Api.Controllers
             _db.SaveChanges();
             return Created($"/catalog/{item.Id}", item);
         }
+
+        [HttpPost("{id:int}/ratings")]
+        public IActionResult PostRating(int id, [FromBody] Rating rating)
+        {
+            var item = _db.Items.Find(id);
+            if (item == null)
+            {
+                return NotFound();
+            }
+            
+            item.AddRating(rating);
+            _db.SaveChanges();
+            
+            return Ok();
+        }
     }
 }        
