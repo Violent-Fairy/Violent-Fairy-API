@@ -15,10 +15,15 @@ namespace Violent.Fairy.Api.Controllers
             _db = db;
         }
 
-        [HttpGet]
-        public IActionResult GetItems()
+        [HttpGet("{id:int}")]
+        public IActionResult GetItems(int id)
         {
-            return Ok(_db.Items);
+            var item = _db.Items.Find(id);
+            if (item == null)
+            {
+                return NotFound();
+            }
+            return Ok();
         }
     }
 }        
