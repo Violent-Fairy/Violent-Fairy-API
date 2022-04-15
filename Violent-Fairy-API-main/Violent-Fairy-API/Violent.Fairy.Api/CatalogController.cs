@@ -25,5 +25,13 @@ namespace Violent.Fairy.Api.Controllers
             }
             return Ok();
         }
+
+        [HttpPost]
+        public IActionResult Post(Item item)
+        {
+            _db.Items.Add(item);
+            _db.SaveChanges();
+            return Created($"/catalog/{item.Id}", item);
+        }
     }
 }        
