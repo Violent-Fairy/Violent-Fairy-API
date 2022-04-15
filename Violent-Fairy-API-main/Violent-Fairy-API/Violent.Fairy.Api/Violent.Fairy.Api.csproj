@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Violent_Fairy.Api</RootNamespace>
+    <RootNamespace>Violent.Fairy.Api</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Violent-Fairy.Domain\Violent-Fairy.Domain.csproj" />
-    <ProjectReference Include="..\Violent-Fairy.Data\Violent-Fairy.Data.csproj" />
+    <ProjectReference Include="..\Violent.Fairy.Domain\Violent.Fairy.Domain.csproj" />
+    <ProjectReference Include="..\Violent.Fairy.Data\Violent.Fairy.Data.csproj" />
   </ItemGroup>
 
 </Project>

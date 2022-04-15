@@ -1,7 +1,7 @@
 ﻿using Violent.Fairy.Domain.Catalog;
 using Microsoft.EntityFrameworkCore;
 
-namespace Violent_Fairy.Data
+namespace Violent.Fairy.Data
 {
     public class StoreContext : DbContext
     {

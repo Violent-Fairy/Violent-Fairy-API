@@ -15,6 +15,7 @@ namespace Violent.Fairy.Domain.Catalog
         {
             this.Ratings.Add(rating);
         }
+        
         public Item(string name,string description,string brand,decimal price)
         {
             if(string.IsNullOrEmpty(name))
@@ -44,28 +45,5 @@ namespace Violent.Fairy.Domain.Catalog
     }
 }
 
-
-public class Rating
-  {
-    public int Id { get; set; }
-    public int Stars {get; set; }
-    public string UserName { get; set; }
-    public string Review {get; set; }
-
-    public Rating(int starts, string username,string review)
-    {
-        if(starts<1 || starts >5)
-        {
-            throw new ArgumentException("Star raing must be and integer of: 1,2,3,4,5.");
-        }
-        if(string.IsNullOrEmpty(username))
-        {
-            throw new ArgumentException("username cannot be null");
-        }
-        this.Stars= Stars;
-        this.UserName=username;
-        this.Review=review;
-    }
-   }
 
 
