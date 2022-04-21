@@ -1,5 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-namespace Violent_Fairy.Domain.Tests;
+using System;
+namespace Violent.Fairy.Domain.Tests;
+
 
 [TestClass]
 public class RatingTests
