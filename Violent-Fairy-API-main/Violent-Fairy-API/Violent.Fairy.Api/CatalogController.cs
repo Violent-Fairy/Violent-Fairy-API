@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Violent.Fairy.Domain.Catalog;
 using Violent.Fairy.Data;
 using Microsoft.EntityFrameworkCore;
-
+using Microsoft.AspNetCore.Authorization;
 
 namespace Violent.Fairy.Api.Controllers
 {
