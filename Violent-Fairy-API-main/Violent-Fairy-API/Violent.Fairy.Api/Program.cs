@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 string authority = builder.Configuration["Auth0:Authority"] ??
      throw new ArgumentNullException("Auth0:Authority");
 
-string audiance = builder.Configuration["Auth0:Audience"] ??
+string audience = builder.Configuration["Auth0:Audience"] ??
      throw new ArgumentNullException("Auth0:Audience");
 
 // Add services to the container.
