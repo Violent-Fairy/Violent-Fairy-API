@@ -2,14 +2,17 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore. Authorization;
 
+
 namespace Violent.Fairy.Api.Security
 {
     public class HasScopeHandler : AuthorizationHandler<HasScopeRequirements>
     {
-        protected override Task HandleRequirementAsync(AuthorizationHandlerContext context, HasScopeRequirements requirement)
+        protected override Task HandleRequirementAsync(
+            AuthorizationHandlerContext context,
+            HasScopeRequirements requirement)
         {
             
-            if (!context.User.Hasclaim(c => c.Type == "scope" && c.Issuer == requirment.Issuer))
+            if (!context.User.HasClaim(c => c.Type == "scope" && c.Issuer == requirement.Issuer))
                 return Task.CompletedTask;
 
             var scopes = context.User
