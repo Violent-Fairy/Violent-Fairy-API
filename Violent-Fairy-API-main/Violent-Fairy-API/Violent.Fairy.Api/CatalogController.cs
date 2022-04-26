@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Violent.Fairy.Domain.Catalog;
 using Violent.Fairy.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Violent.Fairy.Api.Controllers
 {
@@ -70,6 +71,7 @@ namespace Violent.Fairy.Api.Controllers
         }
 
         [HttpDelete("{id:int}")]
+        [Authorize("delete:catalog")]
         public IActionResult DeleteItem(int id)
         {
             var item = _db.Items.Find(id);
